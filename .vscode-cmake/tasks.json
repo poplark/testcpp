@@ -2,7 +2,7 @@
     "tasks": [
         {
             "type": "cmake",
-            "label": "CMake: build",
+            "label": "CMake: my build",
             "command": "build",
             "targets": [
                 "all"
